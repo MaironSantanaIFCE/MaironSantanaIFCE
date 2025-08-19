@@ -1,4 +1,4 @@
-## Olá me chamno Mairon Santana 👋
+## Olá me chamo Mairon Santana 👋
 Sou professor substituto nno Instituto Federal de Ciência e Tecnologia do Ceará no campus Aracati
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaironSantanaIFCE&show_icons=true&theme=tokyonight)
