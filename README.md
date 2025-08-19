@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá me chamno Mairon Santana 👋
+Sou professor substituto nno Instituto Federal de Ciência e Tecnologia do Ceará no campus Aracati
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaironSantanaIFCE&show_icons=true&theme=tokyonight)
 <!--
 **MaironSantanaIFCE/MaironSantanaIFCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
