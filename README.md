@@ -2,6 +2,7 @@
 Sou professor substituto nno Instituto Federal de Ciência e Tecnologia do Ceará no campus Aracati
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaironSantanaIFCE&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaironSantanaIFCE&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MaironSantanaIFCE/MaironSantanaIFCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
